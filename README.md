@@ -11,7 +11,7 @@ Linear Print methods and binary methods were utilized. 
 
 Area for improvement: 
 Initially, I struggled to understand how I could use the linearPrint method in my program as it was confusing to learn. 
-However, after referring back to 8.02 Leture Notes, I was able to understand eventually. 
+However, I was able to understand eventually. 
 
 What I liked: 
 I enjoyed understanding how binary search works. It is a bit more involved than sequential search as we 
